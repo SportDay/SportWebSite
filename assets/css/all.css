@@ -1,0 +1,24 @@
+*{
+
+}
+
+#Error404 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+    width: 50%;
+
+}
+
+.imagecontainer {
+    position: relative;
+}
+
+.center {
+    bottom: 8px;
+    font-size: 100px;
+    text-align: center;
+    color: black;
+}
+
